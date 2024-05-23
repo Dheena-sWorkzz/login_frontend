@@ -1,0 +1,11 @@
+/* App.css */
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url('/bg2.jpg'); /* Path to the image in the public folder */
+  background-size: cover;
+  background-position: center;
+}
